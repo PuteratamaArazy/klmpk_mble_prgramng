@@ -27,4 +27,3 @@ class PoliItem extends StatelessWidget {
     );
   }
 }
-
