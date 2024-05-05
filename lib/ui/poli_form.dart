@@ -65,6 +65,3 @@ class _PoliFormState extends State<PoliForm> {
     );
   }
 }
-
-
-
