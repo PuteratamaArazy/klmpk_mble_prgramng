@@ -67,7 +67,3 @@ class Beranda extends StatelessWidget {
     );
   }
 }
-
-
-
-
