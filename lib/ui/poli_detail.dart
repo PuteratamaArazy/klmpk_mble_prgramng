@@ -113,5 +113,3 @@ class _PoliDetailState extends State<PoliDetail> {
     );
   }
 }
-
-
