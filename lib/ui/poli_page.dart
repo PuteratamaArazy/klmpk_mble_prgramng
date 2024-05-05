@@ -76,14 +76,3 @@ class _PoliPageState extends State<PoliPage> {
     );
   }
 }
-
-
-
-
-
-
-
-
-
-
-
